@@ -1,4 +1,4 @@
-# vue-crash-course
+# vue-crash-course (Vue.js + TypeScript)
 
 ## Project setup
 ```
